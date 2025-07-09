@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/twigaahome/static/css/main.81429435.css",
-    "main.js": "/twigaahome/static/js/main.14bb996c.js",
+    "main.css": "/twigaahome/static/css/main.108d39c6.css",
+    "main.js": "/twigaahome/static/js/main.dda0225d.js",
     "static/js/453.47506d64.chunk.js": "/twigaahome/static/js/453.47506d64.chunk.js",
     "index.html": "/twigaahome/index.html",
-    "main.81429435.css.map": "/twigaahome/static/css/main.81429435.css.map",
-    "main.14bb996c.js.map": "/twigaahome/static/js/main.14bb996c.js.map",
+    "main.108d39c6.css.map": "/twigaahome/static/css/main.108d39c6.css.map",
+    "main.dda0225d.js.map": "/twigaahome/static/js/main.dda0225d.js.map",
     "453.47506d64.chunk.js.map": "/twigaahome/static/js/453.47506d64.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.81429435.css",
-    "static/js/main.14bb996c.js"
+    "static/css/main.108d39c6.css",
+    "static/js/main.dda0225d.js"
   ]
 }
